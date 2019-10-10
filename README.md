@@ -13,5 +13,6 @@ cd FHO_Topicos_django/
 virtualenv venv -p python3
 source venv/bin/activate
 pip install -r requirements.txt 
+cd mysite/
 python manage.py runserver
 ```

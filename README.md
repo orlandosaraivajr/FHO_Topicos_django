@@ -9,9 +9,10 @@ FHO_Tópicos
 
 ```console
 git clone https://github.com/orlandosaraivajr/FHO_Topicos_django.git
-cd AudiBUN/
+cd FHO_Topicos_django/
 virtualenv venv -p python3
 source venv/bin/activate
 pip install -r requirements.txt 
+cd mysite/
 python manage.py runserver
 ```

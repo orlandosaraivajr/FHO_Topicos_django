@@ -8,7 +8,7 @@ FHO_Tópicos
 4. Instale as dependências
 
 ```console
-git clone https://github.com/orlandosaraivajr/AudiBUN.git
+git clone https://github.com/orlandosaraivajr/FHO_Topicos_django.git
 cd AudiBUN/
 virtualenv venv -p python3
 source venv/bin/activate
